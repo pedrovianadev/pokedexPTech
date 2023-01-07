@@ -1,6 +1,6 @@
 # React Pokedex
 
-## Project in React to practice your studies
+## Project in React to practice my studies
 
 Here I basically used Axios to request the API and developed the project using React.
 
